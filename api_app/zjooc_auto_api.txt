@@ -1,1 +1,1 @@
-最新版本1.3.7|状态[正常使用-此项目已弃用]|更新日志[修复已知问题]|下载地址{https://api.hanximeng.com/lanzou/?url=https://wwp.lanzoup.com/iEF5M0g7odef&pwd=2961&type=down}|强制更新[true]|切换用户[false]|设备码登录[false]|通行A证0NHM86JD1Y1A29K7DIRNJD09H28IYN|通行B证0AA69FF669A9D5A9B9F18281213F1263|锁定码3984713802756902|时间2022/7/24
+最新版本1.4.1|状态[正常使用-此项目已弃用]|更新日志[修复已知问题]|下载地址{https://api.hanximeng.com/lanzou/?url=https://wwp.lanzoup.com/iEF5M0g7odef&pwd=2961&type=down}|强制更新[true]|切换用户[false]|设备码登录[false]|通行A证0NHM86JD1Y1A29K7DIRNJD09H28IYN|通行B证0AA69FF669A9D5A9B9F18281213F1263|锁定码3984713802756902|时间2022/7/24
